@@ -11,3 +11,19 @@ https://hidelookit.tistory.com/category/Java // 프로그래머스 코딩테스�
 https://lottogame.tistory.com/2088 // 권한체크 TedPermission 라이브러리
 https://www.journaldev.com/9481/android-animation-example // animation 예시
 https://twinw.tistory.com/32 // Expandable Listview 예시
+
+<R>
+https://r-graphics.org/recipes.html // 튜토리얼
+
+<스프링 Spring> 
+http://websystique.com/spring-4-tutorial/ // 튜토리얼
+
+<DB>
+https://www.techonthenet.com/index.php // sql튜토리얼
+
+<자바스크립트 JS>
+https://ko.javascript.info/ // 모던자바스크립트 튜토리얼
+
+
+<노드 Node js>
+https://javafa.gitbooks.io/nodejs_server_basic/content/ // 튜토리얼
