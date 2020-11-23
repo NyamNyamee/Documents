@@ -24,6 +24,8 @@ https://www.techonthenet.com/index.php // sql튜토리얼
 <자바스크립트 JS>
 https://ko.javascript.info/ // 모던자바스크립트 튜토리얼
 
-
 <노드 Node js>
 https://javafa.gitbooks.io/nodejs_server_basic/content/ // 튜토리얼
+
+<가상화, 클라우드 컴퓨팅>
+https://wnsgml972.github.io/network/2018/08/14/network_cloud-computing/ // 가상화와 클라우드 컴퓨팅, IaaS,PaaS,SaaS등 정리
