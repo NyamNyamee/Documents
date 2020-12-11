@@ -22,6 +22,7 @@ https://r-graphics.org/recipes.html // 튜토리얼
 http://websystique.com/spring-4-tutorial/ // 튜토리얼
 https://engkimbs.tistory.com/category/Spring?page=7 // 스프링 개념들 정리
 https://codevang.tistory.com/266 // 시큐리티 튜토리얼
+https://admm.tistory.com/109 // 시큐리티 로그아웃
 
 <DB>
 https://www.techonthenet.com/index.php // sql튜토리얼
@@ -37,3 +38,9 @@ https://wnsgml972.github.io/network/2018/08/14/network_cloud-computing/ // 가�
 
 <도커 Docker>
 https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html // 도커 개념정리
+
+<Ext JS>
+https://kutar37.tistory.com/entry/ExtJS-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83 // 기본문법
+
+<JSP>
+https://jerryjerryjerry.tistory.com/32 // 스코프(영역) 정리
