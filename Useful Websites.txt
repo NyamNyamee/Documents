@@ -51,6 +51,8 @@ https://jerryjerryjerry.tistory.com/32 // 스코프(영역) 정리
 https://nowonbun.tistory.com/42 // 셀레니움 자바 설정, DOM요소 찾기
 https://riptutorial.com/ko/selenium-webdriver/example/15495/selenium-webdriver%EC%9D%98-%EB%8C%80%EA%B8%B0-%EC%9C%A0%ED%98%95 // 셀레니움 자바 대기종류
 https://velog.io/@dahunyoo/Synchronization-wait // 셀레니움 자바 대기종류
+https://www.guru99.com/selenium-tutorial.html // 튜토리얼
+
 
 <일러스트레이터 illustrator>
 https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 추적)
