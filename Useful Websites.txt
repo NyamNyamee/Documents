@@ -41,6 +41,7 @@ https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html // 도커 개�
 
 <Ext JS>
 https://kutar37.tistory.com/entry/ExtJS-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83 // 기본문법
+https://docs.sencha.com/ // 공식API
 
 <JSP>
 https://jerryjerryjerry.tistory.com/32 // 스코프(영역) 정리
@@ -56,3 +57,5 @@ https://www.guru99.com/selenium-tutorial.html // 튜토리얼
 
 <일러스트레이터 illustrator>
 https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 추적)
+
+ 
