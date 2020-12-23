@@ -6,6 +6,8 @@ http://www.sha1-online.com // 문자열을 sha1해쉬코드로 변경
 
 <자바 Java>
 https://coding-factory.tistory.com/602?category=758267 // 자바의 자료구조 정리
+https://ifuwanna.tistory.com/221 // String, StringBuffer, StringBuilder차이
+https://coding-factory.tistory.com/284 // 디렉토리 내부 파일 제거, 디렉토리 자체를 제거
 
 <프로그래머스 Programmers>
 https://hidelookit.tistory.com/category/Java // 프로그래머스 코딩테스트 자바풀이
@@ -54,8 +56,14 @@ https://riptutorial.com/ko/selenium-webdriver/example/15495/selenium-webdriver%E
 https://velog.io/@dahunyoo/Synchronization-wait // 셀레니움 자바 대기종류
 https://www.guru99.com/selenium-tutorial.html // 튜토리얼
 
-
 <일러스트레이터 illustrator>
 https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 추적)
 
- 
+<SQLyog>
+https://offbyone.tistory.com/57 // 사용법
+
+<센트리 Sentry>
+https://forl.tistory.com/134 // 센트리 기본설정+슬랙 연동
+
+<로그 slf4j, logback>
+https://enai.tistory.com/36 // 로그백 사용법
