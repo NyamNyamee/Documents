@@ -49,6 +49,7 @@ https://docs.sencha.com/ // 공식API
 https://jerryjerryjerry.tistory.com/32 // 스코프(영역) 정리
 
 <인텔리제이 IntelliJ>
+https://blog.jetbrains.com/ko/2020/03/11/top-15-intellij-idea-shortcuts_ko/ // 인텔리제이 단축키 몇가지 정리
 
 <셀레니움 Selenium>
 https://nowonbun.tistory.com/42 // 셀레니움 자바 설정, DOM요소 찾기
@@ -67,3 +68,6 @@ https://forl.tistory.com/134 // 센트리 기본설정+슬랙 연동
 
 <로그 slf4j, logback>
 https://enai.tistory.com/36 // 로그백 사용법
+
+<톰캣 Tomcat>
+https://blog.kjslab.com/6 // 톰캣 모든버전 다운로드 사이트 
