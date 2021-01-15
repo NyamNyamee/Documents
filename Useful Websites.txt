@@ -3,11 +3,14 @@ https://backlog.com/git-tutorial/kr/intro/intro2_1.html // 튜토리얼
 http://blog.naver.com/PostView.nhn?blogId=euleekwon&logNo=221320701530&categoryNo=24&parentCategoryNo=0 // 튜토리얼
 https://kuzuro.blogspot.com/2018/04/github.html // 이클립스와 깃 연동
 http://www.sha1-online.com // 문자열을 sha1해쉬코드로 변경
+https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html // 깃 명령 취소관련
 
 <자바 Java>
 https://coding-factory.tistory.com/602?category=758267 // 자바의 자료구조 정리
 https://ifuwanna.tistory.com/221 // String, StringBuffer, StringBuilder차이
 https://coding-factory.tistory.com/284 // 디렉토리 내부 파일 제거, 디렉토리 자체를 제거
+https://develop-im.tistory.com/54 // inputStream, outputStream, Reader, Writer 등
+https://coding-factory.tistory.com/279?category=758267 // 쓰레드
 
 <프로그래머스 Programmers>
 https://hidelookit.tistory.com/category/Java // 프로그래머스 코딩테스트 자바풀이
@@ -50,6 +53,9 @@ https://jerryjerryjerry.tistory.com/32 // 스코프(영역) 정리
 
 <인텔리제이 IntelliJ>
 https://blog.jetbrains.com/ko/2020/03/11/top-15-intellij-idea-shortcuts_ko/ // 인텔리제이 단축키 몇가지 정리
+https://lalwr.blogspot.com/2018/04/intellij.html // 인텔리제이 단축키
+https://tourspace.tistory.com/226 // 인텔리제이 jar파일 생성방법
+http://1004lucifer.blogspot.com/2016/01/intellij-jar-xxxjar-manifest.html // 인텔리제이 jar파일 생성시 주의사항
 
 <셀레니움 Selenium>
 https://nowonbun.tistory.com/42 // 셀레니움 자바 설정, DOM요소 찾기
@@ -74,3 +80,29 @@ https://blog.kjslab.com/6 // 톰캣 모든버전 다운로드 사이트
 
 <스윙 Java Swing>
 https://m.blog.naver.com/highkrs/220587752871 // JTable 사용법
+
+<롬복 lombok>
+https://goddaehee.tistory.com/208 // 인텔리제이 롬복 설정법
+
+<일러스트레이터 adobe illustrator>
+https://m.blog.naver.com/PostView.nhn?blogId=la-lifeview&logNo=221277493162&proxyReferer=https:%2F%2Fwww.google.com%2F // 저장시 버전 다운그레이드
+
+<데이터베이스 DB database>
+https://futurists.tistory.com/17 // mysql 조인 join
+https://zetawiki.com/wiki/MySQL_%EC%BB%AC%EB%9F%BC%EB%AA%85%EC%9C%BC%EB%A1%9C_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%B0%BE%EA%B8%B0 // mysql 컬럼명으로 테이블 찾기
+
+<극혐 ExtJS>
+https://wikidocs.net/2040 // ext5 위키독스
+https://wikidocs.net/2780 // ext6 위키독스
+https://mongodev.tistory.com/category/ExtJS // 블로그, 동영상강의
+https://roqkffhwk.tistory.com/17?category=583248 // 블로그
+
+<런치포제이 launch4j>
+https://yangyag.tistory.com/139 // jar파일을 exe 실행파일로 변환
+https://micropilot.tistory.com/2432 // jar파일을 exe 실행파일로 변환
+
+<퍼티 Putty>
+https://blog.naver.com/PostView.nhn?blogId=drparksc&logNo=220304792251&parentCategoryNo=&categoryNo=26&viewDate=&isShowPopularPosts=true&from=search // 한글깨짐수정
+https://ooz.co.kr/158 // 한글깨짐수정 레지스트리
+https://stove99.tistory.com/172 // 자동로그인    vi ~/.ssh/authorized_keys 입력하고 입력모드로 들어가서 한줄 띄고 키값 입력하고 esc->:wq로 저장하고 종료해줘야 함
+http://egloos.zum.com/voyager/v/4110197 // 자동로그인
