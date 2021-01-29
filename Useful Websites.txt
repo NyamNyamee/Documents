@@ -105,4 +105,4 @@ https://micropilot.tistory.com/2432 // jar파일을 exe 실행파일로 변환
 https://blog.naver.com/PostView.nhn?blogId=drparksc&logNo=220304792251&parentCategoryNo=&categoryNo=26&viewDate=&isShowPopularPosts=true&from=search // 한글깨짐수정
 https://ooz.co.kr/158 // 한글깨짐수정 레지스트리
 https://stove99.tistory.com/172 // 자동로그인    vi ~/.ssh/authorized_keys 입력하고 입력모드로 들어가서 한줄 띄고 키값 입력하고 esc->:wq로 저장하고 종료해줘야 함
-http://egloos.zum.com/voyager/v/4110197 // 자동로그인
+http://egloos.zum.com/voyager/v/4110197 // 자동로그인 
