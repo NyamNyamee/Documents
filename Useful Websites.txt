@@ -11,6 +11,9 @@ https://ifuwanna.tistory.com/221 // String, StringBuffer, StringBuilder차이
 https://coding-factory.tistory.com/284 // 디렉토리 내부 파일 제거, 디렉토리 자체를 제거
 https://develop-im.tistory.com/54 // inputStream, outputStream, Reader, Writer 등
 https://coding-factory.tistory.com/279?category=758267 // 쓰레드
+https://shyunku.tistory.com/38 // 얕은복사, 깊은복사
+https://jamesdreaming.tistory.com/203 // 숫자패턴 금액패턴 포맷
+https://myjamong.tistory.com/150 // 추상클래스와 인터페이스 차이
 
 <프로그래머스 Programmers>
 https://hidelookit.tistory.com/category/Java // 프로그래머스 코딩테스트 자바풀이
@@ -28,9 +31,13 @@ http://websystique.com/spring-4-tutorial/ // 튜토리얼
 https://engkimbs.tistory.com/category/Spring?page=7 // 스프링 개념들 정리
 https://codevang.tistory.com/266 // 시큐리티 튜토리얼
 https://admm.tistory.com/109 // 시큐리티 로그아웃
+https://hellogk.tistory.com/85 // pathVariable 어노테이션
 
-<DB>
+<데이터베이스 DB database>
 https://www.techonthenet.com/index.php // sql튜토리얼
+https://hosim.tistory.com/20 // mysql 프로세스 보기, 죽이기
+https://futurists.tistory.com/17 // mysql 조인 join
+https://zetawiki.com/wiki/MySQL_%EC%BB%AC%EB%9F%BC%EB%AA%85%EC%9C%BC%EB%A1%9C_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%B0%BE%EA%B8%B0 // mysql 컬럼명으로 테이블 찾기
 
 <자바스크립트 JS>
 https://ko.javascript.info/ // 모던자바스크립트 튜토리얼
@@ -62,6 +69,7 @@ https://nowonbun.tistory.com/42 // 셀레니움 자바 설정, DOM요소 찾기
 https://riptutorial.com/ko/selenium-webdriver/example/15495/selenium-webdriver%EC%9D%98-%EB%8C%80%EA%B8%B0-%EC%9C%A0%ED%98%95 // 셀레니움 자바 대기종류
 https://velog.io/@dahunyoo/Synchronization-wait // 셀레니움 자바 대기종류
 https://www.guru99.com/selenium-tutorial.html // 튜토리얼
+https://soraji.github.io/java/2019/04/19/seleniumIEDriver/ // 셀레니움 익스플로러 세팅
 
 <일러스트레이터 illustrator>
 https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 추적)
@@ -87,15 +95,12 @@ https://goddaehee.tistory.com/208 // 인텔리제이 롬복 설정법
 <일러스트레이터 adobe illustrator>
 https://m.blog.naver.com/PostView.nhn?blogId=la-lifeview&logNo=221277493162&proxyReferer=https:%2F%2Fwww.google.com%2F // 저장시 버전 다운그레이드
 
-<데이터베이스 DB database>
-https://futurists.tistory.com/17 // mysql 조인 join
-https://zetawiki.com/wiki/MySQL_%EC%BB%AC%EB%9F%BC%EB%AA%85%EC%9C%BC%EB%A1%9C_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%B0%BE%EA%B8%B0 // mysql 컬럼명으로 테이블 찾기
-
 <극혐 ExtJS>
 https://wikidocs.net/2040 // ext5 위키독스
 https://wikidocs.net/2780 // ext6 위키독스
 https://mongodev.tistory.com/category/ExtJS // 블로그, 동영상강의
 https://roqkffhwk.tistory.com/17?category=583248 // 블로그
+https://hellogk.tistory.com/46?category=526655 // 티스토리(제일 나은듯)
 
 <런치포제이 launch4j>
 https://yangyag.tistory.com/139 // jar파일을 exe 실행파일로 변환
@@ -105,4 +110,22 @@ https://micropilot.tistory.com/2432 // jar파일을 exe 실행파일로 변환
 https://blog.naver.com/PostView.nhn?blogId=drparksc&logNo=220304792251&parentCategoryNo=&categoryNo=26&viewDate=&isShowPopularPosts=true&from=search // 한글깨짐수정
 https://ooz.co.kr/158 // 한글깨짐수정 레지스트리
 https://stove99.tistory.com/172 // 자동로그인    vi ~/.ssh/authorized_keys 입력하고 입력모드로 들어가서 한줄 띄고 키값 입력하고 esc->:wq로 저장하고 종료해줘야 함
-http://egloos.zum.com/voyager/v/4110197 // 자동로그인 
+http://egloos.zum.com/voyager/v/4110197 // 자동로그인
+
+<리눅스 Linux>
+https://m.blog.naver.com/PostView.nhn?blogId=dudwo567890&logNo=130156521971&proxyReferer=https:%2F%2Fwww.google.com%2F // rm으로 삭제한 파일 복구 debugfs명령
+
+<취업>
+https://github.com/jojoldu/junior-recruit-scheduler // 3.3이상 기업 정리 깃헙
+
+<파이썬 Python>
+https://wikidocs.net/20403 // 김중운 선생님 위키독스
+https://securityspecialist.tistory.com/90 // file 모드
+https://hello-bryan.tistory.com/128 // 설치된 모듈 txt파일로 추출, 다른 프로젝트에서 한꺼번에 pip install
+
+<인스톨팩토리 Install Factory>
+http://kimhe.co.kr/bbs/board.php?bo_table=bbs04_03&wr_id=56&sfl=&stx=&sst=wr_hit&sod=desc&sop=and&page=2 // 기본사용법
+
+<독서 책>
+커리어 스킬
+클린 코드(밥아저씨)
