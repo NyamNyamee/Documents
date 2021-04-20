@@ -14,6 +14,7 @@ https://coding-factory.tistory.com/279?category=758267 // 쓰레드
 https://shyunku.tistory.com/38 // 얕은복사, 깊은복사
 https://jamesdreaming.tistory.com/203 // 숫자패턴 금액패턴 포맷
 https://myjamong.tistory.com/150 // 추상클래스와 인터페이스 차이
+https://cofs.tistory.com/354 // log4j 로그
 
 <프로그래머스 Programmers>
 https://hidelookit.tistory.com/category/Java // 프로그래머스 코딩테스트 자바풀이
@@ -38,9 +39,12 @@ https://www.techonthenet.com/index.php // sql튜토리얼
 https://hosim.tistory.com/20 // mysql 프로세스 보기, 죽이기
 https://futurists.tistory.com/17 // mysql 조인 join
 https://zetawiki.com/wiki/MySQL_%EC%BB%AC%EB%9F%BC%EB%AA%85%EC%9C%BC%EB%A1%9C_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%B0%BE%EA%B8%B0 // mysql 컬럼명으로 테이블 찾기
+https://marlboroyw.tistory.com/268 // locked 락걸리는 이유 / 해결법
+http://www.gurubee.net/lecture/1022 // mysql 커밋, 롤백, 세이브포인트
 
 <자바스크립트 JS>
 https://ko.javascript.info/ // 모던자바스크립트 튜토리얼
+https://ninearies.tistory.com/177 // 자바스크립트 replace, replaceAll 정규표현식 regex
 
 <노드 Node js>
 https://javafa.gitbooks.io/nodejs_server_basic/content/ // 튜토리얼
@@ -70,6 +74,7 @@ https://riptutorial.com/ko/selenium-webdriver/example/15495/selenium-webdriver%E
 https://velog.io/@dahunyoo/Synchronization-wait // 셀레니움 자바 대기종류
 https://www.guru99.com/selenium-tutorial.html // 튜토리얼
 https://soraji.github.io/java/2019/04/19/seleniumIEDriver/ // 셀레니움 익스플로러 세팅
+https://sulung-sulung.tistory.com/41?category=978576 // 파이썬 디바이스 (블루투스,usb) 오류
 
 <일러스트레이터 illustrator>
 https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 추적)
@@ -122,9 +127,26 @@ https://github.com/jojoldu/junior-recruit-scheduler // 3.3이상 기업 정리 �
 https://wikidocs.net/20403 // 김중운 선생님 위키독스
 https://securityspecialist.tistory.com/90 // file 모드
 https://hello-bryan.tistory.com/128 // 설치된 모듈 txt파일로 추출, 다른 프로젝트에서 한꺼번에 pip install
+https://velog.io/@city7310/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-URL-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EA%B8%B0-furl-%ED%8E%B8 // furl 라이브러리 
+https://wikidocs.net/21952 // 파이썬 실행파일exe 만들기
+https://velog.io/@chacha/Autoit-Python-Autoit-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89 // 파이썬 UIAutomation
+https://stackoverflow.com/questions/17677127/python-protection-settings-ie // 파이썬 셀레니움 익스플로러 보호모드 해제
+https://m.blog.naver.com/PostView.nhn?blogId=shino1025&logNo=221279112390&proxyReferer=https:%2F%2Fwww.google.com%2F // requests 라이브러리(url로 파일 다운로드) 사용법
+https://cinema4dr12.tistory.com/1296 // 디렉토리(경로) 생성
+https://hamait.tistory.com/880 // logging 로그 모듈
 
 <인스톨팩토리 Install Factory>
 http://kimhe.co.kr/bbs/board.php?bo_table=bbs04_03&wr_id=56&sfl=&stx=&sst=wr_hit&sod=desc&sop=and&page=2 // 기본사용법
+
+<레지스트리 registry>
+https://mr-robot.tistory.com/5 // 배치파일 batch파일 관리자 권한으로 실행
+
+<기타 etc>
+http://trsketch.dothome.co.kr/page_rVsN24 // 입력 글자에 따른 바이트 체크
+https://nsinc.tistory.com/77 // custom url scheme 커스텀url스키마
+
+<넷캣 netcat nc>
+https://eternallybored.org/misc/netcat/ // 넷캣 다운로드
 
 <독서 책>
 커리어 스킬
