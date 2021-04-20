@@ -4,6 +4,7 @@ http://blog.naver.com/PostView.nhn?blogId=euleekwon&logNo=221320701530&categoryN
 https://kuzuro.blogspot.com/2018/04/github.html // 이클립스와 깃 연동
 http://www.sha1-online.com // 문자열을 sha1해쉬코드로 변경
 https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html // 깃 명령 취소관련
+https://webclub.tistory.com/317 // 깃 튜토
 
 <자바 Java>
 https://coding-factory.tistory.com/602?category=758267 // 자바의 자료구조 정리
@@ -15,6 +16,7 @@ https://shyunku.tistory.com/38 // 얕은복사, 깊은복사
 https://jamesdreaming.tistory.com/203 // 숫자패턴 금액패턴 포맷
 https://myjamong.tistory.com/150 // 추상클래스와 인터페이스 차이
 https://cofs.tistory.com/354 // log4j 로그
+https://enai.tistory.com/36 // 로그백 사용법
 
 <프로그래머스 Programmers>
 https://hidelookit.tistory.com/category/Java // 프로그래머스 코딩테스트 자바풀이
@@ -84,9 +86,6 @@ https://offbyone.tistory.com/57 // 사용법
 
 <센트리 Sentry>
 https://forl.tistory.com/134 // 센트리 기본설정+슬랙 연동
-
-<로그 slf4j, logback>
-https://enai.tistory.com/36 // 로그백 사용법
 
 <톰캣 Tomcat>
 https://blog.kjslab.com/6 // 톰캣 모든버전 다운로드 사이트 
