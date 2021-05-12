@@ -1,5 +1,8 @@
 - 웹사이트 정리
 
+<html>
+https://dev.w3.org/html5/html-author/charref // html entity문자
+
 <깃 Git>
 https://backlog.com/git-tutorial/kr/intro/intro2_1.html // 튜토리얼
 http://blog.naver.com/PostView.nhn?blogId=euleekwon&logNo=221320701530&categoryNo=24&parentCategoryNo=0 // 튜토리얼
@@ -7,6 +10,8 @@ https://kuzuro.blogspot.com/2018/04/github.html // 이클립스와 깃 연동
 http://www.sha1-online.com // 문자열을 sha1해쉬코드로 변경
 https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html // 깃 명령 취소관련
 https://webclub.tistory.com/317 // 깃 튜토
+https://ifuwanna.tistory.com/284 // 깃 브랜치 삭제
+https://playinlion.tistory.com/30?category=760720 // fork, pull request
 
 <자바 Java>
 https://coding-factory.tistory.com/602?category=758267 // 자바의 자료구조 정리
@@ -94,6 +99,8 @@ https://blog.kjslab.com/6 // 톰캣 모든버전 다운로드 사이트
 
 <스윙 Java Swing>
 https://m.blog.naver.com/highkrs/220587752871 // JTable 사용법
+https://kimsaemjava.tistory.com/58?category=334222 // JTable 셀 클릭 리스너
+https://almost-native.tistory.com/369 // JTable 선택된 셀의 행
 
 <롬복 lombok>
 https://goddaehee.tistory.com/208 // 인텔리제이 롬복 설정법
@@ -135,6 +142,15 @@ https://stackoverflow.com/questions/17677127/python-protection-settings-ie // �
 https://m.blog.naver.com/PostView.nhn?blogId=shino1025&logNo=221279112390&proxyReferer=https:%2F%2Fwww.google.com%2F // requests 라이브러리(url로 파일 다운로드) 사용법
 https://cinema4dr12.tistory.com/1296 // 디렉토리(경로) 생성
 https://hamait.tistory.com/880 // logging 로그 모듈
+https://blankspace-dev.tistory.com/417 // pyautogui 모듈, 키 정리
+https://hyoje420.tistory.com/45 // __name__, __main__ 정리
+https://popcorn16.tistory.com/121 // json파싱
+http://pythonstudy.xyz/python/article/205-JSON-%EB%8D%B0%EC%9D%B4%ED%83%80 // json 파싱
+https://webisfree.com/2018-03-16/python-%ED%8C%8C%EC%9D%BC-%EB%B0%8F-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%82%AD%EC%A0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95 // 폴더제거 디렉토리 제거 파일제거 파일삭제
+https://inma.tistory.com/138 // 리스트 딕셔너리 정렬
+http://blog.naver.com/PostView.nhn?blogId=ksg97031&logNo=221126216595 // 파이썬 포맷 포맷팅 format
+https://yeko90.tistory.com/27 // url 파일 다운로드
+https://wikidocs.net/85722 // pyautogui, beautifulSoup 등
 
 <인스톨팩토리 Install Factory>
 http://kimhe.co.kr/bbs/board.php?bo_table=bbs04_03&wr_id=56&sfl=&stx=&sst=wr_hit&sod=desc&sop=and&page=2 // 기본사용법
@@ -148,6 +164,9 @@ https://nsinc.tistory.com/77 // custom url scheme 커스텀url스키마
 
 <넷캣 netcat nc>
 https://eternallybored.org/misc/netcat/ // 넷캣 다운로드
+
+<orm>
+https://sinna94.tistory.com/entry/MyBatis-%EB%8F%99%EC%A0%81-%EC%BF%BC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 // mybatis 마이바티스 동적쿼리
 
 <독서 책>
 커리어 스킬
