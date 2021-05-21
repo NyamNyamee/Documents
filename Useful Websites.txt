@@ -7,9 +7,9 @@ https://dev.w3.org/html5/html-author/charref // html entity문자
 https://backlog.com/git-tutorial/kr/intro/intro2_1.html // 튜토리얼
 http://blog.naver.com/PostView.nhn?blogId=euleekwon&logNo=221320701530&categoryNo=24&parentCategoryNo=0 // 튜토리얼
 https://kuzuro.blogspot.com/2018/04/github.html // 이클립스와 깃 연동
-http://www.sha1-online.com // 문자열을 sha1해쉬코드로 변경
+http://www.sha1-online.com // 문자열을 sha1해시코드로 변경
 https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html // 깃 명령 취소관련
-https://webclub.tistory.com/317 // 깃 튜토
+https://webclub.tistory.com/317 // 깃 튜토리얼
 https://ifuwanna.tistory.com/284 // 깃 브랜치 삭제
 https://playinlion.tistory.com/30?category=760720 // fork, pull request
 
@@ -64,10 +64,6 @@ https://wnsgml972.github.io/network/2018/08/14/network_cloud-computing/ // 가�
 <도커 Docker>
 https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html // 도커 개념정리
 
-<Ext JS>
-https://kutar37.tistory.com/entry/ExtJS-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83 // 기본문법
-https://docs.sencha.com/ // 공식API
-
 <JSP>
 https://jerryjerryjerry.tistory.com/32 // 스코프(영역) 정리
 
@@ -84,9 +80,6 @@ https://velog.io/@dahunyoo/Synchronization-wait // 셀레니움 자바 대기종
 https://www.guru99.com/selenium-tutorial.html // 튜토리얼
 https://soraji.github.io/java/2019/04/19/seleniumIEDriver/ // 셀레니움 익스플로러 세팅
 https://sulung-sulung.tistory.com/41?category=978576 // 파이썬 디바이스 (블루투스,usb) 오류
-
-<일러스트레이터 illustrator>
-https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 추적)
 
 <SQLyog>
 https://offbyone.tistory.com/57 // 사용법
@@ -106,9 +99,12 @@ https://almost-native.tistory.com/369 // JTable 선택된 셀의 행
 https://goddaehee.tistory.com/208 // 인텔리제이 롬복 설정법
 
 <일러스트레이터 adobe illustrator>
+https://blog.naver.com/poppy776/221259495292 // 간단한 로고따기 (이미지 트레이싱)
 https://m.blog.naver.com/PostView.nhn?blogId=la-lifeview&logNo=221277493162&proxyReferer=https:%2F%2Fwww.google.com%2F // 저장시 버전 다운그레이드
 
 <극혐 ExtJS>
+https://kutar37.tistory.com/entry/ExtJS-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83 // 기본문법
+https://docs.sencha.com/ // 공식API
 https://wikidocs.net/2040 // ext5 위키독스
 https://wikidocs.net/2780 // ext6 위키독스
 https://mongodev.tistory.com/category/ExtJS // 블로그, 동영상강의
@@ -151,6 +147,10 @@ https://inma.tistory.com/138 // 리스트 딕셔너리 정렬
 http://blog.naver.com/PostView.nhn?blogId=ksg97031&logNo=221126216595 // 파이썬 포맷 포맷팅 format
 https://yeko90.tistory.com/27 // url 파일 다운로드
 https://wikidocs.net/85722 // pyautogui, beautifulSoup 등
+https://brownbears.tistory.com/501 // 인코딩
+https://shwoghk14.blogspot.com/2019/10/python-urllibparsequote.html // urllib.parse.quote 인코딩 디코딩
+https://m.blog.naver.com/ourdream20/221947294327 // django 튜토리얼
+https://inuplace.tistory.com/584?category=933559 // django 튜토리얼
 
 <인스톨팩토리 Install Factory>
 http://kimhe.co.kr/bbs/board.php?bo_table=bbs04_03&wr_id=56&sfl=&stx=&sst=wr_hit&sod=desc&sop=and&page=2 // 기본사용법
@@ -165,8 +165,11 @@ https://nsinc.tistory.com/77 // custom url scheme 커스텀url스키마
 <넷캣 netcat nc>
 https://eternallybored.org/misc/netcat/ // 넷캣 다운로드
 
-<orm>
+<ORM>
 https://sinna94.tistory.com/entry/MyBatis-%EB%8F%99%EC%A0%81-%EC%BF%BC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 // mybatis 마이바티스 동적쿼리
+
+<HTML, CSS>
+https://engkimbs.tistory.com/922 // css style - position 속성
 
 <독서 책>
 커리어 스킬
