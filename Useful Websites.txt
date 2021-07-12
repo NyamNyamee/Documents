@@ -54,6 +54,8 @@ http://www.gurubee.net/lecture/1022 // mysql 커밋, 롤백, 세이브포인트
 <자바스크립트 JS>
 https://ko.javascript.info/ // 모던자바스크립트 튜토리얼
 https://ninearies.tistory.com/177 // 자바스크립트 replace, replaceAll 정규표현식 regex
+https://www.zerocho.com/category/JavaScript/post/5b2b45cf1350f9001b662ba6 // 콘솔 console 객체
+https://jungpaeng.tistory.com/60 // var, let, const 특징, 스코프 등 정리
 
 <노드 Node js>
 https://javafa.gitbooks.io/nodejs_server_basic/content/ // 튜토리얼
@@ -72,6 +74,8 @@ https://blog.jetbrains.com/ko/2020/03/11/top-15-intellij-idea-shortcuts_ko/ // �
 https://lalwr.blogspot.com/2018/04/intellij.html // 인텔리제이 단축키
 https://tourspace.tistory.com/226 // 인텔리제이 jar파일 생성방법
 http://1004lucifer.blogspot.com/2016/01/intellij-jar-xxxjar-manifest.html // 인텔리제이 jar파일 생성시 주의사항
+https://dololak.tistory.com/566 // 인코딩
+https://es2sun.tistory.com/247 // cannot resolve 메이븐 디펜던시 라이브러리 추가 오류
 
 <셀레니움 Selenium>
 https://nowonbun.tistory.com/42 // 셀레니움 자바 설정, DOM요소 찾기
@@ -151,6 +155,7 @@ https://brownbears.tistory.com/501 // 인코딩
 https://shwoghk14.blogspot.com/2019/10/python-urllibparsequote.html // urllib.parse.quote 인코딩 디코딩
 https://m.blog.naver.com/ourdream20/221947294327 // django 튜토리얼
 https://inuplace.tistory.com/584?category=933559 // django 튜토리얼
+https://wikidocs.net/16045 // 반복문 for
 
 <인스톨팩토리 Install Factory>
 http://kimhe.co.kr/bbs/board.php?bo_table=bbs04_03&wr_id=56&sfl=&stx=&sst=wr_hit&sod=desc&sop=and&page=2 // 기본사용법
@@ -161,6 +166,7 @@ https://mr-robot.tistory.com/5 // 배치파일 batch파일 관리자 권한으�
 <기타 etc>
 http://trsketch.dothome.co.kr/page_rVsN24 // 입력 글자에 따른 바이트 체크
 https://nsinc.tistory.com/77 // custom url scheme 커스텀url스키마
+https://decdream08.tistory.com/67 // cron tab 윈도우 사용법
 
 <넷캣 netcat nc>
 https://eternallybored.org/misc/netcat/ // 넷캣 다운로드
